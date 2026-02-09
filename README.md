@@ -1,5 +1,4 @@
 ## Project Overview
-
 StepEeeasy (package: `com.example.stepeeeasy`) is an Android walking tracker application built with Jetpack Compose and Material Design 3. The app records walk sessions with step counting, distance tracking, and GPS path visualization. All data is stored locally for privacy and offline functionality.
 
 **Target Platform:** Android API 34+ (minSdk: 34, targetSdk: 36)
@@ -8,7 +7,6 @@ StepEeeasy (package: `com.example.stepeeeasy`) is an Android walking tracker app
 **Architecture Goal:** Clean Architecture + Repository Pattern (see docs/android-development-plan.md)
 
 ## Build Commands
-
 ### Standard Development
 ```bash
 # Build debug APK
