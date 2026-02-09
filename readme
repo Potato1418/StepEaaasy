@@ -1,7 +1,3 @@
-# CLAUDE.md
-
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
 ## Project Overview
 
 StepEeeasy (package: `com.example.stepeeeasy`) is an Android walking tracker application built with Jetpack Compose and Material Design 3. The app records walk sessions with step counting, distance tracking, and GPS path visualization. All data is stored locally for privacy and offline functionality.
